@@ -8,7 +8,7 @@ const Experience = () => {
 
     const experienceData = [
         {
-            role: "Frontend Intern",
+            role: "Full Stack Intern",
             company: "Voltra",
             location: "Gurugram",
             duration: "Feb 2025 – Apr 2025",
@@ -19,7 +19,7 @@ const Experience = () => {
             technologies: ["React.js", "MongoDB", "Performance Optimization"]
         },
         {
-            role: "Frontend Intern",
+            role: "SDE Intern",
             company: "BingeClip AI",
             location: "Bangalore",
             duration: "Dec 2024 – Jan 2025",
